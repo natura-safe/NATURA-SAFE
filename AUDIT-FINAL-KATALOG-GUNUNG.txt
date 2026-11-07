@@ -1,0 +1,17 @@
+NATURA-SAFE — AUDIT KATALOG GUNUNG (v29)
+Tanggal: 12 Oktober 2026
+
+Jumlah entri katalog yang diperiksa secara struktural: 116
+Koordinat di luar rentang pemeriksaan geografis Indonesia: 0
+Entri yang berbagi koordinat persis dengan entri lain: 0
+Entri dengan nama duplikat setelah normalisasi sederhana: 0
+
+PENTING: pemeriksaan rentang koordinat hanya pemeriksaan kewajaran angka, BUKAN bukti bahwa pin tepat berada pada gunung yang dimaksud. Audit eksternal per entri belum tuntas. Kolom status faktual di CSV menyatakan hal ini secara eksplisit. Jangan mengubah semua status menjadi terverifikasi tanpa mencocokkan rekaman sumber spesifik.
+
+Acuan daftar 270 ribus + 115 spesial (total 385 puncak berdasarkan kriteria prominensi/minat wisata; bukan daftar seluruh gunung Indonesia):
+https://en.wikipedia.org/wiki/List_of_mountains_in_Indonesia
+
+Sumber geografis pencarian per entri: GeoNames; hasil harus diperiksa satu per satu, karena tautan pencarian bukan bukti verifikasi.
+https://www.geonames.org/advanced-search.html?country=ID
+
+Status data vulkanik dan status jalur pendakian merupakan dua hal berbeda dan harus memakai sumber resmi yang relevan serta tanggal pengecekan.

@@ -1,0 +1,25 @@
+NATURA-SAFE — LAPORAN AUDIT KATALOG GUNUNG (v28)
+
+Jumlah entri katalog: 116
+Entri dengan pencocokan awal GeoNames: 5
+Entri yang masih perlu dicocokkan satu per satu: 111
+Entri dengan koordinat numerik dalam rentang geografis Indonesia: 116
+Koordinat di luar rentang pemeriksaan: 0
+Entri tanpa elevasi atau tautan sumber: 0
+Duplikasi pasangan koordinat persis: 0
+
+PENTING
+- Pemeriksaan rentang koordinat hanya pemeriksaan kewajaran teknis; bukan bukti lokasi gunung benar.
+- Lima entri yang diberi status pencocokan awal: Kerinci, Rinjani, Puncak Jaya, Trikora, dan Mandala. Ini bukan audit final dan tetap perlu dicocokkan dengan sumber kedua.
+- Entri lain tidak dinyatakan terverifikasi. Tautan pencarian sumber bukan bukti bahwa rekaman spesifik sudah cocok.
+- Elevasi/koordinat harus dicocokkan dengan rekaman geografis yang tepat; nama alternatif dan puncak yang berdekatan bisa menimbulkan duplikasi atau perbedaan angka.
+- Status aktivitas gunung api harus diperiksa melalui MAGMA Indonesia/PVMBG; status jalur pendakian melalui pengelola/basecamp. Data ini tidak otomatis disimpulkan dari koordinat.
+- Jalur, jarak, pos, waktu tempuh, kontak, musim terbaik, dan tingkat kesulitan tidak dianggap terverifikasi tanpa sumber pengelola yang sesuai.
+
+RUJUKAN AWAL
+GeoNames — daftar gunung tertinggi Indonesia: https://www.geonames.org/ID/highest-mountains-in-indonesia.html
+GeoNames — pencarian geografis Indonesia: https://www.geonames.org/search.html?country=ID
+Geoportal Badan Informasi Geospasial: https://geoportal.big.go.id/
+MAGMA Indonesia: https://magma.esdm.go.id/
+
+Audit ini merangkum validasi struktur dan pemeriksaan awal sumber yang tersedia. Ini bukan klaim bahwa semua entri sudah diverifikasi secara independen.

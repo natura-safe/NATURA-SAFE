@@ -1,0 +1,1 @@
+NATURA-SAFE v22 — ikon gunung ditambahkan ke semua entri katalog, bukan hanya 9 gunung yang memiliki koordinat marker. Marker peta tetap hanya dapat muncul untuk gunung dengan koordinat di mountains-data.js. Katalog tambahan masih perlu verifikasi data dan koordinat sebelum dapat dijadikan marker peta.
